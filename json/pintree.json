@@ -59,62 +59,6 @@
             ]
           },
           {
-            "type": "folder",
-            "addDate": 1713331477544,
-            "title": "汇众",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1713331624960,
-                "title": "汇众科技",
-                "icon": "https://logo.clearbit.com/www.huizsoft.com",
-                "url": "http://www.huizsoft.com/login.aspx"
-              },
-              {
-                "type": "link",
-                "addDate": 1713331571194,
-                "title": "源代码管理",
-                "icon": "https://logo.clearbit.com/47.114.82.162",
-                "url": "http://47.114.82.162:3000/"
-              },
-              {
-                "type": "link",
-                "addDate": 1713331710624,
-                "title": "SqlServer网站9875",
-                "icon": "https://logo.clearbit.com/192.168.124.157",
-                "url": "http://192.168.124.157:9875/"
-              },
-              {
-                "type": "link",
-                "addDate": 1713331686664,
-                "title": "华为网站9877",
-                "icon": "https://logo.clearbit.com/192.168.124.157",
-                "url": "http://192.168.124.157:9877/"
-              },
-              {
-                "type": "link",
-                "addDate": 1716257132286,
-                "title": "达梦网站9879",
-                "icon": "https://logo.clearbit.com/192.168.124.157",
-                "url": "http://192.168.124.157:9879/"
-              },
-              {
-                "type": "link",
-                "addDate": 1713331754983,
-                "title": "旧网站",
-                "icon": "https://logo.clearbit.com/192.168.124.157",
-                "url": "http://192.168.124.157/"
-              },
-              {
-                "type": "link",
-                "addDate": 1715584854722,
-                "title": "团队文件 - 蓝湖",
-                "icon": "https://logo.clearbit.com/lanhuapp.com",
-                "url": "https://lanhuapp.com/dashboard/#/item"
-              }
-            ]
-          },
-          {
             "type": "link",
             "addDate": 1626267054000,
             "title": "───────────",
